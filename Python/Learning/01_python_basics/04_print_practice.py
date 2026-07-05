@@ -1,0 +1,6 @@
+print("Mening ismim Javlonbek")
+print("Men AI Engineer bo'lishni maqsad qilganman")
+print("Bugun birinchi Python darsim")
+print(100)
+print(25+75)
+print(10*5)
