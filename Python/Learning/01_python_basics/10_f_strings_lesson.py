@@ -20,4 +20,4 @@ total = price * quantity
 print(f"Mahsulot: {product_name}")
 print(f"Narxi: {price} so'm")
 print(f"Soni: {quantity} ta")
-print(f"Jami {total} so'm")
+print(f"Jami: {total} so'm")
